@@ -1,0 +1,13 @@
+.contenedor-jumbo{
+    display: flex;
+    flex-direction: row;
+   
+    align-items: center;
+    justify-content: center;
+    background-color: #ac1e1e;
+    width: 500px;
+    height: 500px;
+    margin: 100px auto;
+    background-color: rgb(25, 75, 118);
+    box-shadow: 0 3px 13px 5px rgb(29, 168, 101);
+ }
